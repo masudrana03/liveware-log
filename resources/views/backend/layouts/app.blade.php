@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ asset('backend/images/favicon.svg') }}" type="image/x-icon" />
     <title>@yield('title', 'Livewire') | Livewire Flight</title>
 
     <!-- ========== All CSS files linkup ========= -->
@@ -273,7 +273,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-1.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-1.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">Arm Chair</p>
@@ -319,7 +319,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-2.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-2.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">SOfa</p>
@@ -365,7 +365,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-3.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-3.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">Dining Table</p>
@@ -411,7 +411,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-4.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-4.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">Office Chair</p>
@@ -659,7 +659,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-1.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-1.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">Bedroom</p>
@@ -699,7 +699,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-2.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-2.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">Arm Chair</p>
@@ -739,7 +739,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-3.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-3.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">Sofa</p>
@@ -779,7 +779,7 @@
                                             <td>
                                                 <div class="product">
                                                     <div class="image">
-                                                        <img src="assets/images/products/product-mini-4.jpg"
+                                                        <img src="{{ asset('backend/images/products/product-mini-4.jpg') }}"
                                                             alt="" />
                                                     </div>
                                                     <p class="text-sm">Kitchen</p>

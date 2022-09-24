@@ -30,7 +30,7 @@
                             <li>
                                 <a href="#0">
                                     <div class="image">
-                                        <img src="assets/images/lead/lead-6.png" alt="" />
+                                        <img src="{{ asset('backend/images/lead/lead-6.png') }}" alt="" />
                                     </div>
                                     <div class="content">
                                         <h6>
@@ -50,7 +50,7 @@
                             <li>
                                 <a href="#0">
                                     <div class="image">
-                                        <img src="assets/images/lead/lead-1.png" alt="" />
+                                        <img src="{{ asset('backend/images/lead/lead-1.png') }}" alt="" />
                                     </div>
                                     <div class="content">
                                         <h6>
@@ -81,7 +81,7 @@
                             <li>
                                 <a href="#0">
                                     <div class="image">
-                                        <img src="assets/images/lead/lead-5.png" alt="" />
+                                        <img src="{{ asset('backend/images/lead/lead-5.png') }}" alt="" />
                                     </div>
                                     <div class="content">
                                         <h6>Jacob Jones</h6>
@@ -93,7 +93,7 @@
                             <li>
                                 <a href="#0">
                                     <div class="image">
-                                        <img src="assets/images/lead/lead-3.png" alt="" />
+                                        <img src="{{ asset('backend/images/lead/lead-3.png') }}" alt="" />
                                     </div>
                                     <div class="content">
                                         <h6>John Doe</h6>
@@ -105,7 +105,7 @@
                             <li>
                                 <a href="#0">
                                     <div class="image">
-                                        <img src="assets/images/lead/lead-2.png" alt="" />
+                                        <img src="{{ asset('backend/images/lead/lead-2.png') }}" alt="" />
                                     </div>
                                     <div class="content">
                                         <h6>Anee Lee</h6>
@@ -132,7 +132,7 @@
                                 <div class="info">
                                     <h6>John Doe</h6>
                                     <div class="image">
-                                        <img src="assets/images/profile/profile-image.png" alt="" />
+                                        <img src="{{ asset('backend/images/profile/profile-image.png') }}" alt="" />
                                         <span class="status"></span>
                                     </div>
                                 </div>

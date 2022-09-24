@@ -6,7 +6,7 @@
                  <div class="copyright text-center text-md-start">
                      <p class="text-sm">
                          Designed and Developed by
-                         <a href="https://plainadmin.com" rel="nofollow" target="_blank">
+                         <a href="#" rel="nofollow" target="_blank">
                              PlainAdmin
                          </a>
                      </p>
