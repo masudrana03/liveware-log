@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Test Route add hear
+
 Route::get('/welcome', function () {
     return view('welcome');
 });
@@ -20,3 +22,39 @@ Route::get('/welcome', function () {
 Route::get('/', function () {
     return view('backend.layouts.app');
 });
+
+
+
+
+
+
+
+
+
+
+// Route add Hear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
